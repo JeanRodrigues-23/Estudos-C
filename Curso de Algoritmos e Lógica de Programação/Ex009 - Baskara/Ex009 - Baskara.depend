@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745445333 source:c:\users\jean\documents\estudos\c\curso de algoritmos e lógica de programação\ex009 - baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

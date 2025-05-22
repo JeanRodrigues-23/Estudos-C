@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1745469166 source:c:\users\jean\documents\estudos\c\curso de algoritmos e lógica de programação\ex011 - meia_idade\main.c
+	<stdio.h>
+	<stdlib.h>
+

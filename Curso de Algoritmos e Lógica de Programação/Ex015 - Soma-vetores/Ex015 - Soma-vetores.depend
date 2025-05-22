@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1745509262 source:c:\users\jean\documents\estudos\c\curso de algoritmos e lógica de programação\ex015 - soma-vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+
